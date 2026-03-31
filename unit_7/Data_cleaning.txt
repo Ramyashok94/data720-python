@@ -14,4 +14,4 @@ Compliance and Ethical Considerations: Ensuring data cleanliness is often critic
 
 Better Visualization: Clean data is essential for effective data visualization. Errors in data can mislead interpretations, while clean data allows for accurate and insightful visual representations of information.
 
-Decision-Making: Data-driven decision-making relies on accurate and clean data. Clean data ensures that decisions are based on reliable information, reducing the likelihood of costly errors.
+Decision-Making: Data-driven decision-making relies on accurate and clean data. Clean data ensures that decisions are based on reliable information, reducing the likelihood of costly errors
